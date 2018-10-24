@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BinaryConverter
+{
+    class Program
+    {
+        //Given an integer 
+        static void Main(string[] args)
+        {
+           
+        }
+    }
+}
