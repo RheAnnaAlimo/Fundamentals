@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNPrimeNumers", "PrintN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{9E18CC2C-9EB7-4F49-96ED-07D79D0B3797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySumEvens", "ArraySumEvens\ArraySumEvens.csproj", "{1EE10C30-5F31-400C-A149-6AFE4FEA2386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsInString", "VowelsInString\VowelsInString.csproj", "{3BAACB1A-745D-4C19-8078-AB28A9E29691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{9E18CC2C-9EB7-4F49-96ED-07D79D0B3797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E18CC2C-9EB7-4F49-96ED-07D79D0B3797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E18CC2C-9EB7-4F49-96ED-07D79D0B3797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE10C30-5F31-400C-A149-6AFE4FEA2386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE10C30-5F31-400C-A149-6AFE4FEA2386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE10C30-5F31-400C-A149-6AFE4FEA2386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE10C30-5F31-400C-A149-6AFE4FEA2386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAACB1A-745D-4C19-8078-AB28A9E29691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAACB1A-745D-4C19-8078-AB28A9E29691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAACB1A-745D-4C19-8078-AB28A9E29691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAACB1A-745D-4C19-8078-AB28A9E29691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
