@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArraySumEvens
 {
-    class SumofEvens
+    public class SumofEvens
     {
         //Given an interger Array, total all of the even numbers.
         static void Main(string[] args)

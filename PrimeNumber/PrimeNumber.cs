@@ -6,28 +6,25 @@ using System.Threading.Tasks;
 
 namespace PrimeNumber
 {
-    class Program
+    public class PrimeNumber
     {
         static void Main(string[] args)
         {
-            int num;
+            Console.WriteLine(IsPrime(7));
+        }
+        public static bool IsPrime(int num)
+        {
             Console.WriteLine("Enter a number");
             num = Convert.ToInt32(Console.ReadLine());
-            int factorCount = 0;
 
-            for (int i = 1; i <= num / 2; i++)
+            for (int i = 2; i <= Math.Sqrt(num); i++)
             {
                 if (num % i == 0)
                 {
-                    factorCount++;
-                }  
+                    return false;
+                }
             }
-            Console.WriteLine("Number is not Prime");
-
-            if (factorCount == 1)
-            {
-                Console.WriteLine("Entered number is Prime");
+            return true;
             }
         }
     }
-}
