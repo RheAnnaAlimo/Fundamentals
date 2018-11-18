@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigitsTests", "SumOfDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberTests1", "PrimeNumberTests1\PrimeNumberTests1.csproj", "{5CD9B65F-7252-452E-B31B-84AB5F5585D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode", "MorseCode\MorseCode.csproj", "{0F8EE69F-3081-4370-8CE5-0C7057A11C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeTests", "MorseCodeTests\MorseCodeTests.csproj", "{59431C5A-C3B4-4C6B-9CDB-D83D40F8B40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{5CD9B65F-7252-452E-B31B-84AB5F5585D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CD9B65F-7252-452E-B31B-84AB5F5585D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CD9B65F-7252-452E-B31B-84AB5F5585D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8EE69F-3081-4370-8CE5-0C7057A11C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8EE69F-3081-4370-8CE5-0C7057A11C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8EE69F-3081-4370-8CE5-0C7057A11C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8EE69F-3081-4370-8CE5-0C7057A11C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59431C5A-C3B4-4C6B-9CDB-D83D40F8B40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59431C5A-C3B4-4C6B-9CDB-D83D40F8B40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59431C5A-C3B4-4C6B-9CDB-D83D40F8B40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59431C5A-C3B4-4C6B-9CDB-D83D40F8B40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
